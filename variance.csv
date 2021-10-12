@@ -1,0 +1,21 @@
+id,marks,teacher feedback,gender,difference (mean - marks ),,,tryy,quiz2
+X001,80,good,male,12,144, ,7,180
+X002,40,bad,female,-28,784,,6,313
+X003,75,good,male,7,49,,8,101
+X004,90,excellent,female,22,484,,4,255
+X005,40,bad,female,-28,784,,2,202
+X006,69,good,female,1,1,,7,198
+X007,72,good,male,4,16,,6,109
+X008,34,bad,male,-34,1156,,7,183
+X009,99,excellent,male,31,961,,6,181
+X010,79,good,female,11,121,,5,113
+,,,,-2,4500, ,,171
+,,,,,,,,165
+,,,,,,,,318
+,,,,,,,,145
+,,,,,,,,131
+,,,mean=68,,,,,145
+,,,mode=40, ,,,,226
+,,,medain=73.,,,,,113
+,,,,,,,,268
+,,,,,,,,108
